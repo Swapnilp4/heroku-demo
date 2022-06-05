@@ -1,0 +1,13 @@
+Logistic Reg -- Interview ques
+
+
+		Logistic Reg -- 
+			1.Thershold is it fixed? YES it can be changed (Default - 0.5) Sigmoid Function
+			2.Logistic Reg is a Classifcation algo but why is it called Logistic Reg?
+			3.Recall, Precision, F1 Score, Confusion Matrix 
+			4.How do you evalute a classification algo? -- Recall, Precision, F1 Score, Confusion Matrix 
+			5.AUC and ROC
+			6.Formulas = Recall/Sensitivity, Precision, F1 Score, Specificity(True Positive Rate) and False Positive Rate
+			7.Loss/Cost function in Logistic Reg -- Log loss
+			8. Accuracy or F1 score which do you prefer?
+		
